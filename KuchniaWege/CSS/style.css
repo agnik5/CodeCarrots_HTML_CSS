@@ -1,0 +1,31 @@
+body {
+	background: url("../Obrazki/berries.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Arial;
+		color: #293A4F;
+}
+
+#kontener {
+	width: 80%;
+	margin: auto;
+}
+
+h1 {
+font-size: 100px;
+}
+
+p {
+font-size: 18px;
+color: #293A4F;
+}
+
+.link {
+	width: 200px;
+	font-size: 20px;
+	letter-spacing: 4px;
+}
+
+a {
+color: #293A4F;
+}

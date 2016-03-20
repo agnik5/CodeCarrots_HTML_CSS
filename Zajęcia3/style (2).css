@@ -1,0 +1,47 @@
+body {
+	background-color: #61C0FF;
+	font-family: Arial;
+}
+
+#kontener {
+	margin: 0 100px;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+	font-size: 40px;
+}
+
+.paragraf1 {
+	background-color: #fff;
+	padding: 30px;
+	font-size: 20px;
+	text-align: center;
+}
+.color {
+	color: #FF6B97;
+	font-weight: bold;
+}
+.paragraf2 {
+	border: 3px solid #fff;
+	padding: 40px 80px;
+	font-size: 20px;
+	color: #fff;
+	margin-right: 400px;
+}
+.paragraf3 {
+	color: #61C0FF;
+	background-color: #D9F5FF;
+	padding: 40px 100px;
+	margin-left: 600px;
+}
+.link {
+	margin: 50px 400px;
+	background-color: #FF6B97;
+	padding: 30px;
+	text-align: center;
+}
+a {
+	color: #fff;
+}

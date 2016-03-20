@@ -1,0 +1,41 @@
+h1 {
+	color: #8FAAD9;
+}
+
+#mojBlok1 {
+	background: #4A5561;
+	padding-top: 10px;
+	padding-left: 200px;
+	border: 4px solid blue;
+	margin: 0px;
+}
+#mojBlok2 {
+	background: #ffffff;
+	padding: 10px 20px 10px 20px;
+	border: 4px solid gray;
+	margin: 0;
+}
+#mojBlok3 {
+	background: #476C91;
+	padding: 10px;
+	border: 4px solid aqua;
+	margin: 0;
+}
+
+#mojBlok4 {
+	background: #ffffff;
+	padding: 10px;
+	border: 4px solid aqua;
+	margin: 0;
+}
+
+#mojBlok5 {
+	background: #3377BBF;
+	padding: 10px;
+	margin: 0;
+}
+
+#wyroznienie {
+	color: red;
+}
+

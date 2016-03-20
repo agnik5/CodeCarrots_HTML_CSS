@@ -1,0 +1,28 @@
+/*
+Moje fonty */
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('../fonts/roboto-regular-webfont.eot');
+    src: url('../fonts/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-regular-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-regular-webfont.woff') format('woff'),
+         url('../fonts/roboto-regular-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'libre_baskervilleitalic';
+    src: url('../fonts/librebaskerville-italic-webfont.eot');
+    src: url('../fonts/librebaskerville-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/librebaskerville-italic-webfont.woff2') format('woff2'),
+         url('../fonts/librebaskerville-italic-webfont.woff') format('woff'),
+         url('../fonts/librebaskerville-italic-webfont.ttf') format('truetype'),
+         url('../fonts/librebaskerville-italic-webfont.svg#libre_baskervilleitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

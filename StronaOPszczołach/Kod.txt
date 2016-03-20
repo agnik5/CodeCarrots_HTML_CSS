@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Innowacje</title>
+	</head>
+	<body>
+		<h1>Sztuczna pszczo³a</h1>
+			<p><b>B-droid – sztuczna pszczo³a to niewielkich rozmiarów robot, nad jakim pracuj¹ naukowcy z Politechniki Warszawskiej. <br>Bêdzie on wykorzystywany do zapylania rzepaku, a w dalszej przysz³oœci – tak¿e innych roœlin.</br></b></p>
+			<img src="sztuczna_pszczola2.jpg"/>
+			<h2>Jak to dzia³a</h2>
+			<p><b><i>G³ównym problemem</i></b> jest nie samo zapylanie, ale <b><i>rozpoznanie przez sztuczn¹ pszczo³ê kwiatów, które s¹ dojrza³e i gotowe do zapylenia</i></b>. Temu s³u¿y <b>oprogramowanie</b>, które pozwala na identyfikacjê kolorów i kszta³tów, zintegrowane z systemem sterowania oraz <b>miniaturowe kamery</b>. Dane s¹ przesy³ane do zewnêtrznego komputera, który wydaje robotowi polecenia.<p>
+			<p>Testy przechodzi wersja je¿d¿¹ca, aktualnie trwaj¹ prace tak¿e nad lataj¹c¹ sztuczn¹ pszczo³¹. <u>Ma byæ ona gotowa za oko³o rok.</u></p>
+			<img width="600" height="400" src="sztuczna_pszczola.jpg"/>
+			<h2>Rozwi¹zanie problemu wymierania pszczó³?</h2>
+			<p>Pocz¹tek prac wynika m.in. z problemów, jakie stwarza zjawisko wymierania pszczó³ w naturalnym œrodowisku. Nie uda³o siê jak na razie stwierdziæ jednoznacznych przyczyn, wœród których wymienia siê m.in. choroby, grzyby i paso¿yty. <u><i>Urz¹dzenia takie jak sztuczna pszczo³a mog¹ czêœciowo zast¹piæ prawdziwe owady, przynajmniej do momentu rozwi¹zania problemów.</i></u></p>
+			<p>Podobne prace trwaj¹ tak¿e na uniwersytetach w Stanach Zjednoczonych i Wielkiej Brytanii.</p>
+			<p><i>Wiêcej informacji <a href = "http://innovalopment.com/na-politechnice-warszawskie-trwaja-prace-nad-sztuczna-pszczola">w serwisie Innovalopment.</a></i>
+	</body>
+</html>

@@ -1,0 +1,13 @@
+span{
+	background: blue;
+	display: inline-block;
+	float: left;
+}
+
+div, span {
+	border: solid 1px red;
+}
+
+.clearfix {
+	clear: both;
+	}

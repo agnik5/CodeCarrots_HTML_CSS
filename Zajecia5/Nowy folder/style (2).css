@@ -1,0 +1,29 @@
+.box {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: green;
+}
+
+.relative {
+	position: relative;
+	top: 10px;
+	left: 20px;
+	background: red;
+}
+
+.absolute {
+	position: absolute;
+	background: blue;
+}
+
+.container {
+	border: solid 1px red;
+}
+
+.fixed {
+	position: fixed;
+	top: 100px;
+	left: 20px;
+	background: green;
+}
